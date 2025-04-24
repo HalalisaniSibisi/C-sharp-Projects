@@ -232,3 +232,9 @@ Student student = new Student("Zama", 25, "12345678", 76.8f);
 Encapsulation: Private fields with public getters/setters <br>
 Inheritance: Student extends Person <br>
 Polymorphism: Method overriding with PrintDescription()
+---
+
+## 🧑‍💻 Author
+### Naluthabo Halalisani Sibisi
+
+
