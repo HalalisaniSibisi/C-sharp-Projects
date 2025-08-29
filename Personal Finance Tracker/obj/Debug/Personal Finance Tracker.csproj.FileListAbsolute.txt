@@ -1,0 +1,7 @@
+C:\Users\sibis\OneDrive - University of South Africa\Documents\Second Year\ICT2611 - Graphical User Interface Programming\Personal Finance Tracker\bin\Debug\Personal Finance Tracker.exe.config
+C:\Users\sibis\OneDrive - University of South Africa\Documents\Second Year\ICT2611 - Graphical User Interface Programming\Personal Finance Tracker\bin\Debug\Personal Finance Tracker.exe
+C:\Users\sibis\OneDrive - University of South Africa\Documents\Second Year\ICT2611 - Graphical User Interface Programming\Personal Finance Tracker\bin\Debug\Personal Finance Tracker.pdb
+C:\Users\sibis\OneDrive - University of South Africa\Documents\Second Year\ICT2611 - Graphical User Interface Programming\Personal Finance Tracker\obj\Debug\Personal Finance Tracker.csproj.AssemblyReference.cache
+C:\Users\sibis\OneDrive - University of South Africa\Documents\Second Year\ICT2611 - Graphical User Interface Programming\Personal Finance Tracker\obj\Debug\Personal Finance Tracker.csproj.CoreCompileInputs.cache
+C:\Users\sibis\OneDrive - University of South Africa\Documents\Second Year\ICT2611 - Graphical User Interface Programming\Personal Finance Tracker\obj\Debug\Personal Finance Tracker.exe
+C:\Users\sibis\OneDrive - University of South Africa\Documents\Second Year\ICT2611 - Graphical User Interface Programming\Personal Finance Tracker\obj\Debug\Personal Finance Tracker.pdb
